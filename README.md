@@ -4,7 +4,7 @@ Research: How to detect road surface quality (smooth, brick road, grass, and irr
 
 WranglePhonePebbleData.py<br />
 Folders (manually created) used are examples how code manipulates data, create graphs, and extract features.
-(folders present - brick road surface)<br />
+(folders present - brick road surface)<br /><br />
 Process:
 1. Convert .json to .csv
 2. Splitting Pebble (smart watch) & Android (smart phone) data - saved in ~/byDevice
