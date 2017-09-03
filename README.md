@@ -1,7 +1,8 @@
 # CyberHealthGIS
-WranglePhonePebbleData.py
-Code used for REU research. Research: How to detect road surface quality through cycling using wearable devices and machine learning.
+Code used for REU research. 
+Research: How to detect road surface quality (smooth, brick road, grass, and irregular bumps) through cycling using wearable devices and machine learning.
 
+WranglePhonePebbleData.py
 Folders (manually created) used are examples how code manipulates data, create graphs, and extract features.
 Process:
 1. Convert .json to .csv
