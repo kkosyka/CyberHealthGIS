@@ -1,4 +1,5 @@
 # CyberHealthGIS
+##May 2017 - August 2017
 (Python)</br>
 Code used for REU research. <br />
 Research: How to detect road surface quality (smooth, brick road, grass, and irregular bumps) through cycling using wearable devices and machine learning.
