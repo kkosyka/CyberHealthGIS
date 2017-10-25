@@ -2,7 +2,7 @@
 ## May 2017 - August 2017
 (Python)</br>
 Code used for REU research. <br />
-Research: How to detect road surface quality (smooth, brick road, grass, and irregular bumps) through cycling using wearable devices and machine learning.
+Research: How to detect road surface quality (smooth, brick road, grass, and irregular bumps) through cycling using wearable devices (Android and Pebble Watch) and machine learning.
 
 WranglePhonePebbleData.py<br />
 Folders (manually created) used are examples how code manipulates data, create graphs, and extract features.<br />
